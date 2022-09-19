@@ -31,7 +31,8 @@ Documentation for the pathlib library can be found[here.](https://docs.python.or
 
 Documentation for hvplot can be found [here.](https://hvplot.holoviz.org)
 
-Documentaiton for matplotlib can be found [here.](https://matplotlib.org/stable/index.html)
+Documentation for matplotlib can be found [here.](https://matplotlib.org/stable/index.html)
+
 ---
 
 ## Installation Guide
